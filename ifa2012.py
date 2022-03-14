@@ -93,5 +93,5 @@ for ad in range(refcount) :
         print(f"\033[0;39m√ \033[0;32mDone Saved The Account Successfully\033[0;39m")
     else :
         print("\033[0;31mError\033[0;39m")
-    print('\033[0;36m-'*30)
+    print('\033[0;36m-'*40)
     print()

@@ -1,3 +1,20 @@
+print ("""\033[1;39m
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\033[1;32m
+
+    _                                      
+
+   / \   _ __   __ _ ___   _ __  _ __ ___  
+
+  / _ \ | '_ \ / _` / __| | '_ \| '__/ _ \ 
+
+ / ___ \| | | | (_| \__ \ | |_) | | | (_) |
+
+/_/   \_\_| |_|\__,_|___/ | .__/|_|  \___/ 
+
+                          |_|              
+
+\033[0;39m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                       """)
 import random,requests,time
 a = 'Ahamad','Abdullah','Aabdulrhman','Mohammed','Malik','Hussam','Turki','Ali','Talal','Tariq','Samy','Sultan','Saleh','Salem','Fahad','Khaled','Salman','Mansour','Faisal','Bader','Majed','Yasser','Osama','Abdulaziz','Basm','Bassam','Naif','Nawaf','Ibrahim','Yazeed','Mussab'
 b = 'abcdefghijklmnopqrstuvwxyz'

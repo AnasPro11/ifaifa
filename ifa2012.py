@@ -1,4 +1,3 @@
-exit()
 print("\033[0;39mDesigned By \033[0;34m: \033[0;32mAnas Pro")
 print()
 dx = input('''\033[0;39m[\033[0;34m1\033[0;39m]\033[0;32m Invitations and Rewards
